@@ -1,0 +1,5 @@
+		
+	# Alles verbieten:
+	User-agent:*
+	Disallow:/ /* ALLES VERBOTEN */
+	Sitemap: sitemap.xml
